@@ -19,3 +19,6 @@
 - number
 - string
 - boolean
+### some js method and their work
+- **floatParse:** used to convert string to number
+- 
