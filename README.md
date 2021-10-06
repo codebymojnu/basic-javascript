@@ -14,6 +14,7 @@
 - to create a variable you can simply type => `var varName = value;`
 - javascript is untyped, it means that you don't need to declare it's type.
 - follow camel case when you declare a variable
+- give meaning full variable name
 ### typeof Variable in JavaScript
 - number
 - string
