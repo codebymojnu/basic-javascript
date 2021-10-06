@@ -7,10 +7,14 @@
 **or**
 - click the run and debug button
 ### What is variable and rules of declare a variable
-- A variable is a named reference to a location in memory for storing data.
+- **A variable is a named reference to a location in memory for storing data and it could be vary.**
 - can not have space in variable name
 - can not use special charecter in variable name without $ and -
 - variable name can not begin with number. Ex: 365day is not correct to declare a variable
 - to create a variable you can simply type => `var varName = value;`
 - javascript is untyped, it means that you don't need to declare it's type.
 - follow camel case when you declare a variable
+### typeof Variable in JavaScript
+- number
+- string
+- boolean
