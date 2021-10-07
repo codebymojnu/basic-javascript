@@ -20,15 +20,15 @@
 - string
 - boolean
 ### some js method and their work
-- `**parseFloat(number):**` used to convert string to number
-- `**''(emtry string) + number:**` used to convert number to string
-- `**toFixed(number):**` used for how many number count after decimal
-- `**Math.abs(number):**` convert negative number to positive number
-- `**Math.round(number):**` 4.49 = 4; 4.5 = 5
-- `**Math.ceil(number):**` 5.00000000001 = 6
-- `**Math.floor(number):**` 5.999999 = 5
-- `**Math.random():**` return a random number 0.361235654
-- `**new Date():**` return today date and time
+- `parseFloat(number)`: used to convert string to number
+- `''(emtry string) + number`: used to convert number to string
+- `toFixed(number)`: used for how many number count after decimal
+- `Math.abs(number)`: convert negative number to positive number
+- `Math.round(number)`: 4.49 = 4; 4.5 = 5
+- `Math.ceil(number)`: 5.00000000001 = 6
+- `Math.floor(number)`: 5.999999 = 5
+- `Math.random()`: return a random number 0.361235654
+- `new Date()`: return today date and time
 - `pop()`: remove item from the last index of an array
 - `push()`: add item to the last index of an array
 - `shift()`: remove item from the 1st index of the array
