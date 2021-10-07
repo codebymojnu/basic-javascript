@@ -1,4 +1,4 @@
-//delete item from first index
+//shift remove first item
 
 const people = ["Motullah", "Shahadot", "Mojnu"];
 people.shift();
