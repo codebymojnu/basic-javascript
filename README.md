@@ -38,4 +38,4 @@
 - `splice()`: can remove, add and replace item to the array.
 - `reverse()`: reverse the array
 - `sort()`: return the newArray by Alphabecelly order
--`spilt()`: convert string to array
+- `spilt()`: convert string to array
