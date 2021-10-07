@@ -28,4 +28,4 @@
 - **Math.ceil(number):** 5.00000000001 = 6
 - **Math.floor(number):** 5.999999 = 5
 - **Math.random():** return a random number 0.361235654
-- **new Date():** return today and time
+- **new Date():** return today date and time
