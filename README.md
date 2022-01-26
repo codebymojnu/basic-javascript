@@ -1,4 +1,4 @@
-# Learn JavaScript Basics
+# Learn JavaScript Basics with Mojnu 
 ## What is JavaScript
 - JavaScript is used for describing behaviours of the content, it is used to create and update HTML Content and CSS dynamically in our website- anything that moves, refreshes, or otherwise changes on your screen without requiring you to manually reload a web page.
 ### How to run javaScript on visual studio code
@@ -39,3 +39,4 @@
 - `reverse()`: reverse the array
 - `sort()`: return the newArray by Alphabecelly order
 - `spilt()`: convert string to array
+- `reduce()`: reduce method use calculate total number of an array
